@@ -12,9 +12,12 @@
 		<loc>http://www.m2tel.com.br/contato.html</loc>
 	</url>
 	<url>
-		<loc>http://www.m2tel.com.br/sobrenos.html</loc>
+		<loc>http://www.m2tel.com.br/avisoAtraso.html</loc>
 	</url>
 	<url>
-		<loc>http://www.m2tel.com.br/avisoAtraso.html</loc>
+		<loc>http://www.m2tel.com.br/QuemSomos.html</loc>
+	</url>
+	<url>
+		<loc>http://www.m2tel.com.br/CentralAssinante.html</loc>
 	</url>
 </urlset>
