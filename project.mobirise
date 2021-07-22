@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M2 FIBRA ÓPTICA",
-    "currentPage": "index.html",
+    "currentPage": "contato.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,9 +67,9 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "mbrsiteDomain": "6zjey0h5mj",
+    "mbrsiteDomain": "gxugd5aely",
     "cookiesAlert": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "avisoManutencao.html": {
