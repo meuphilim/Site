@@ -22,6 +22,11 @@ body {
   font-size: 1rem;
   font-display: swap;
 }
+.display-4-1 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.8rem;
+  font-display: swap;
+}
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
@@ -2882,7 +2887,7 @@ section.lazy-placeholder:after {
 }
 .cid-tjYISAxe0R {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 00px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
